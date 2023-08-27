@@ -1,0 +1,5 @@
+--upgrade pip
+requests
+random
+tweepy==4.12.1
+time
